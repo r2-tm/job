@@ -1,0 +1,27 @@
+.div1{ 
+    background-color: whitesmoke;
+     box-shadow: 3px 3px 8px black;
+     padding-bottom:
+    }
+.container{
+    display:flex;
+    justify-content: space-evenly; 
+    padding-bottom: 70px;
+}
+.container2{
+    display:flex;
+    justify-content: space-evenly;
+}
+.container3{
+display:flex;
+justify-content:space-evenly ;
+}
+label{
+    display: block;
+}
+textarea{
+    margin-left: 500px;
+}
+h1{
+    text-decoration: underline;
+}
